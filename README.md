@@ -1,2 +1,2 @@
 # grrs
-Grep clone written in RUST
+Grep clone written in Rust
